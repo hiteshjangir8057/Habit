@@ -13,7 +13,7 @@
   },
   "2026-2": {
     "habits": {
-      "3_8": true
+      "3_8": false
     },
     "mental": {
       "mood": {},
