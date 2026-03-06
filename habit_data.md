@@ -20,7 +20,11 @@
       "2_4": false,
       "2_3": false,
       "0_3": false,
-      "1_2": false
+      "1_2": false,
+      "1_9": false,
+      "1_11": false,
+      "1_12": false,
+      "1_10": false
     },
     "mental": {
       "mood": {},
