@@ -10,6 +10,15 @@
       "mood": {},
       "motivation": {}
     }
+  },
+  "2026-2": {
+    "habits": {
+      "3_8": true
+    },
+    "mental": {
+      "mood": {},
+      "motivation": {}
+    }
   }
 }
 ```
